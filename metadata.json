@@ -1,0 +1,8 @@
+{
+  "name": "Page Genius",
+  "description": "An expert multi-modal educational assistant that analyzes textbook pages, solves problems, and creates study resources. Includes AI image generation and a chat tutor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
